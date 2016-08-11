@@ -25,3 +25,9 @@ if (2 > 1) {
 } else {
   console.log('b');
 }
+
+if (2 > 1 && 5 <= 3) {
+  console.log('c');
+} else {
+  console.log('d');
+}
